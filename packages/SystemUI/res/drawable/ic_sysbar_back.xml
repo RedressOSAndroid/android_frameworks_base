@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2018 The Android Open Source Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="20dp"
-    android:height="20dp"
-    android:autoMirrored="true"
-    android:viewportWidth="20"
-    android:viewportHeight="20">
-
-    <path
-        android:fillColor="?attr/singleToneColor"
-        android:pathData="M15.5417 1.66669C15.1833 1.66669 14.8417 1.76669 14.5333 1.94169L3.21667 8.74169C2.775 9.00002 2.5 9.48335 2.5 10C2.5 10.5167 2.775 11 3.21667 11.2584L14.5333 18.05C14.8417 18.2334 15.1833 18.325 15.5417 18.325C16.625 18.325 17.5 17.45 17.5 16.3667V3.62502C17.5 2.54169 16.625 1.66669 15.5417 1.66669Z" />
+<vector android:height="20.0dip" android:width="20.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M15.880 2.815 C 15.544 2.893,15.368 2.957,15.036 3.123 C 14.703 3.289,5.254 8.706,4.638 9.083 C 3.289 9.910,2.691 11.501,3.159 13.020 C 3.381 13.738,3.862 14.407,4.440 14.798 C 4.635 14.931,13.842 20.229,14.800 20.760 C 15.184 20.973,15.472 21.090,15.800 21.164 C 16.602 21.347,17.378 21.258,18.100 20.902 C 19.026 20.445,19.622 19.707,19.913 18.660 C 19.974 18.441,19.980 17.871,19.980 12.000 C 19.980 6.129,19.974 5.559,19.913 5.340 C 19.690 4.536,19.324 3.968,18.720 3.487 C 18.417 3.245,17.843 2.948,17.500 2.855 C 17.184 2.769,16.185 2.744,15.880 2.815 M17.200 4.877 C 17.519 5.041,17.708 5.225,17.848 5.510 L 17.980 5.778 17.980 12.000 L 17.980 18.222 17.848 18.490 C 17.697 18.796,17.497 18.982,17.142 19.144 C 16.847 19.279,16.408 19.291,16.100 19.172 C 15.907 19.097,6.037 13.450,5.611 13.171 C 4.910 12.711,4.799 11.624,5.392 11.013 C 5.497 10.905,7.125 9.949,10.759 7.863 C 13.629 6.215,16.049 4.843,16.138 4.814 C 16.397 4.729,16.979 4.764,17.200 4.877Z" />
 </vector>
