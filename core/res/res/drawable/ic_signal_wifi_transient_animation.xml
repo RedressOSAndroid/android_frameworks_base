@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-     Copyright (C) 2019 The Android Open Source Project
-
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
-<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:drawable="@drawable/ic_signal_wifi_transient_animation_drawable">
-    <target android:name="_R_G_L_4_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_0" />
-    <target android:name="_R_G_L_3_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_1" />
-    <target android:name="_R_G_L_3_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_2" />
-    <target android:name="_R_G_L_2_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_3" />
-    <target android:name="_R_G_L_2_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_4" />
-    <target android:name="_R_G_L_1_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_5" />
-    <target android:name="_R_G_L_1_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_6" />
-    <target android:name="_R_G_L_0_G_N_1_T_0"
-            android:animation="@anim/ic_signal_wifi_transient_animation_7" />
-    <target android:name="time_group"
-            android:animation="@anim/ic_signal_wifi_transient_animation_8" />
-</animated-vector>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M12 19.7c-0.9 0-1.6-0.7-1.6-1.7 0-0.9 0.7-1.6 1.6-1.6 1 0 1.7 0.7 1.7 1.6 0 1-0.7 1.7-1.7 1.7z" android:fillAlpha="1.0" />
+    <path android:fillColor="#ffffffff" android:pathData="M7.8 16.4c1.1-1.4 2.6-2.3 4.3-2.3 1.7 0 3.2 0.8 4.3 2.1l1.3-1.5c-1.4-1.7-3.4-2.8-5.6-2.8-2.2 0-4.3 1.2-5.7 2.9z" android:fillAlpha="1.0" />
+    <path android:fillColor="#ffffffff" android:pathData="M4.6 12.9c1.9-2.3 4.6-3.8 7.5-3.8 2.9 0 5.5 1.4 7.4 3.6l1.3-1.4c-2.2-2.7-5.3-4.3-8.7-4.3-3.5 0-6.6 1.7-8.8 4.5z" android:fillAlpha="1.0" />
+    <path android:fillColor="#ffffffff" android:pathData="M1.4 9.5c2.7-3.3 6.5-5.4 10.7-5.4 4.1 0 7.9 2 10.5 5.1l1.3-1.5 0.1-0.1c-3-3.4-7.2-5.6-11.9-5.6-4.7 0-9 2.3-12.1 6z" android:fillAlpha="1.0" />
+</vector>
